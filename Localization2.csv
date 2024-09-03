@@ -93,7 +93,7 @@ AchievementsLockedDescription/PetColors	Text		Store all color variations of one 
 AchievementsLockedDescription/PetMaxLevel	Text		Reach max level on a pet	TODO
 AchievementsLockedDescription/PlantCherryTree	Text		Plant 10 Cherry Trees	TODO
 AchievementsLockedDescription/SitOnCavelingToiletWithACrown	Text		Sit on a Caveling Toilet while wearing a crown	TODO
-AchievementsLockedDescription/StormSong	Text	"Please make sure to find a word for ""tempest"" that doesn't sound the same like ""storm"" in the the title Song of Storms in Zelda Ocarina of Time in the language you want to translate to. For example, in Germany that song is called ""Hymne des Sturms"". In order to not infringe on Nintendos copyright, ""Sturm"" has been replaced by ""Unwetter""."	Play the Tune of Tempest	TODO
+AchievementsLockedDescription/StormSong	Text	Please make sure to find a word for \"tempest\" that doesn't sound the same like \"storm\" in the the title Song of Storms in Zelda Ocarina of Time in the language you want to translate to. For example, in Germany that song is called \"Hymne des Sturms\". In order to not infringe on Nintendos copyright, \"Sturm\" has been replaced by \"Unwetter\".	Play the Tune of Tempest	TODO
 AchievementsLockedDescription/TalkToBigLarva	Text		Talk to a Big Larva	TODO
 AchievementsUnlockedDescription/CatchStarlightNautilus	Text		Caught a Starlight Nautilus	TODO
 AchievementsUnlockedDescription/DefeatAtlanteanWorm	Text		Defeated an Atlantean Worm	TODO
