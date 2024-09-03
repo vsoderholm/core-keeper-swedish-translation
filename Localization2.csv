@@ -251,7 +251,7 @@ ConditionEffectDesc/MaxMana	Text		Maximum amount of mana is {0}.	TODO
 ConditionEffectDesc/MaxMinions	Text		You can have up to {0} summoned minions.	TODO
 ConditionEffectDesc/MeleeAttackSpeed	Text		You hit {0}% faster with melee weapons.	TODO
 ConditionEffectDesc/MeleeDamage	Text		Melee attacks deal {0}.	TODO
-ConditionEffectDesc/MeleeDamageFormat	Text	"{0} is replaced with the values and type of damage, i.e physical or magic. So for example:Melee attacks deal 12-15 magic damage."	Melee attacks deal {0}.	TODO
+ConditionEffectDesc/MeleeDamageFormat	Text	{0} is replaced with the values and type of damage, i.e physical or magic. So for example:Melee attacks deal 12-15 magic damage.	Melee attacks deal {0}.	TODO
 ConditionEffectDesc/Mining	Text		Deals {0} damage to walls and objects that require mining to be destroyed.	TODO
 ConditionEffectDesc/MiningSpeed	Text		You hit {0}% faster with pickaxes.	TODO
 ConditionEffectDesc/MinionAttackSpeed	Text		Minions attack {0}% faster.	TODO
@@ -278,7 +278,7 @@ Conditions/ApplyPetDamageIncrease	Text		{0}% damage dealt by your pet	TODO
 Conditions/ApplySlipperyMovementWhenHit	Text		Melee attackers become slippery when attacking you	TODO
 Conditions/ApplySlowedBySlime	Text		Reduces the target's movement speed by {0}% for 4 sec	TODO
 Conditions/ApplySnare	Text		Ensnare	TODO
-Conditions/ArmorIncrease	Text	"Text shown on gear stat or buff, for example ""+45 armor"" where {0} is replaced with the number"	{0} armor	TODO
+Conditions/ArmorIncrease	Text	Text shown on gear stat or buff, for example '+45 armor' where {0} is replaced with the number	{0} armor	TODO
 Conditions/ArmorIncreaseFromMovementSpeed	Text		{0}% armor of current movement speed increase	TODO
 Conditions/ArmorPercentageIncrease	Text		{0}% armor	TODO
 Conditions/AttackSpeed	Text		{0}% melee and range attack speed	TODO
@@ -291,7 +291,7 @@ Conditions/AuraApplyRadioactiveDamageOverTime	Text		All nearby enemies take {0} 
 Conditions/AuraMovementSpeedDecrease	Text		{0}% movement speed from a nearby aura	TODO
 Conditions/AuraRadioactiveDamageOverTime	Text		{0} radioactive damage every other sec	TODO
 Conditions/AuraVoidDamagePercentageOverTime	Text		{0}% of health as void damage every  sec	TODO
-Conditions/BlueGlow	Text	"Description for items that make player glow when eating it. For example ""+5 glow"" where +5 refers to the intensity/range of the light"	{0} blue glow	TODO
+Conditions/BlueGlow	Text	Description for items that make player glow when eating it. For example '+5 glow' where +5 refers to the intensity/range of the light	{0} blue glow	TODO
 Conditions/Burning	Text		{0} burn damage every other sec	TODO
 Conditions/ChanceForAdditionalOre	Text		{0}% chance to gain an additional ore from walls containing ores	TODO
 Conditions/ChanceForExtraCookedFoodToBeRare	Text		{0}% chance for additional food gained from cooking to be rare	TODO
@@ -375,8 +375,8 @@ Conditions/GainRangeDamageIncreaseFromStandingStill	Text		{0}% range damage afte
 Conditions/GainRemainingManaAsMagicDamagePercentage	Text		Up to {0}% magic damage based on your remaining mana	TODO
 Conditions/GodMode	Text		You are in god mode	TODO
 Conditions/HealOnMinionDespawn	Text		Minions heal you for {0}% health when they despawn	TODO
-Conditions/HealOverTime	Text	"For example ""+5 health every second"""	{0} health every sec	TODO
-Conditions/HealOverTimePercentage	Text	"For example ""+5% health every second"""	{0}% health every sec	TODO
+Conditions/HealOverTime	Text	For example '+5 health every second'	{0} health every sec	TODO
+Conditions/HealOverTimePercentage	Text	For example '+5% health every second'	{0}% health every sec	TODO
 Conditions/HealingPotionAddHealOverTime	Text		Healing potions also heal for {0}% of health gained from the potion over time	TODO
 Conditions/HealthAddition	Text	{0} will be replaced by +10 for example so it says +10 health which can appear on an item description	{0} health	TODO
 Conditions/HealthAdditionPercentage	Text		{0}% health	TODO
@@ -476,7 +476,7 @@ Conditions/SlipperyMovement	Text		Your movement is slippery	TODO
 Conditions/SlipperyMovementFromGround	Text		The ground is slippery	TODO
 Conditions/SlowedBySlime	Text		{0}% movement speed from slime	TODO
 Conditions/SnareAndStunDurationReduction	Text		Snare and stun durations reduced by {0}%	TODO
-Conditions/Snared	Text	"Can also be translated from ""immobilized"" or other similar word meaning that character can't move"	Snared	TODO
+Conditions/Snared	Text	Can also be translated from 'immobilized' or other similar word meaning that character can't move	Snared	TODO
 Conditions/Snowing	Text		You can feel the winter embracing you	TODO
 Conditions/SpawnExplosionOnDamageTaken	Text		Deals {0} damage to all nearby enemies when taking damage	TODO
 Conditions/StackedCritChance	Text		{0}% critical hit chance	TODO
@@ -745,17 +745,17 @@ Credits/ArtDirector	Text		Art Director	TODO
 Credits/Artists	Text		Artists	TODO
 Credits/AssociateProducer	Text		Associate Producer	TODO
 Credits/AssociateProductManager	Text		Associate Product Manager	TODO
-Credits/Association71Consulting	Text		"In Association with Marketing & PR Studio \n 71 Consulting"	TODO
-Credits/AssociationAceAgency	Text		"In Association with Localisation Studio \nACE Agency"	TODO
-Credits/AssociationDreamLoop	Text		"In Association with Console Porting Studio, Dreamloop Games"	TODO
-Credits/AssociationEnzyme	Text		"In Association with Compatibility Testing Studio \n Enzyme"	TODO
-Credits/AssociationKeywordsIndia	Text		"In Association with PC FQA Studio \nKeywords India"	TODO
-Credits/AssociationLionbridge	Text		"In Association with PC and Console QA Studio \nLionbridge Games"	TODO
-Credits/AssociationLionbridgeLQA	Text		"In Association with PC and Console LQA Studio \nLionbridge Games"	TODO
-Credits/AssociationLocalizeDirect	Text		"In Association with PC LQA Studio \nLocalizeDirect"	TODO
-Credits/AssociationOhCreative	Text		"In Association with Marketing Studio \nOH Creative"	TODO
-Credits/AssociationPlaytropic	Text		"In Association with PC and Console FQA Studio \nPlaytropic Video Game Services"	TODO
-Credits/AssociationTestify	Text		"In Association with Testing Studio \nTestify"	TODO
+Credits/Association71Consulting	Text		In Association with Marketing & PR Studio \n 71 Consulting	TODO
+Credits/AssociationAceAgency	Text		In Association with Localisation Studio \nACE Agency	TODO
+Credits/AssociationDreamLoop	Text		In Association with Console Porting Studio, Dreamloop Games	TODO
+Credits/AssociationEnzyme	Text		In Association with Compatibility Testing Studio \n Enzyme	TODO
+Credits/AssociationKeywordsIndia	Text		In Association with PC FQA Studio \nKeywords India	TODO
+Credits/AssociationLionbridge	Text		In Association with PC and Console QA Studio \nLionbridge Games	TODO
+Credits/AssociationLionbridgeLQA	Text		In Association with PC and Console LQA Studio \nLionbridge Games	TODO
+Credits/AssociationLocalizeDirect	Text		In Association with PC LQA Studio \nLocalizeDirect	TODO
+Credits/AssociationOhCreative	Text		In Association with Marketing Studio \nOH Creative	TODO
+Credits/AssociationPlaytropic	Text		In Association with PC and Console FQA Studio \nPlaytropic Video Game Services	TODO
+Credits/AssociationTestify	Text		In Association with Testing Studio \nTestify	TODO
 Credits/AudioAndMusic	Text		Audio and Music	TODO
 Credits/AudioDesigners	Text		Audio/Sound Designers	TODO
 Credits/CEO	Text		CEO	TODO
@@ -818,7 +818,7 @@ Credits/PCLQA	Text		PC LQA	TODO
 Credits/PCandConsoleFQA	Text		PC and Console FQA	TODO
 Credits/PCandConsoleQA	Text		PC and Console QA	TODO
 Credits/PRAndCommunications	Text		PR and Communications	TODO
-Credits/PartneredFireshine	Text		"Partnered with Publisher \nFireshine Games"	TODO
+Credits/PartneredFireshine	Text		Partnered with Publisher \nFireshine Games	TODO
 Credits/PartneredUnity	Text		Partnered with Unity Technologies	TODO
 Credits/PortingProgrammers	Text		Porting Programmers	TODO
 Credits/PortugueseBrazilianLQATester	Text		Portuguese Brazilian LQA Tester	TODO
@@ -1157,13 +1157,13 @@ Emotes/Questionmark	Text		?	TODO
 Emotes/ShouldPlaceHandOnWall	Text		I should place my hand on the wall	TODO
 Emotes/StomachFull	Text		My stomach is too full	TODO
 Emotes/StopHurtingMe	Text		Stop hurting me!	TODO
-Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	"""The Ancient Forge"""	TODO
+Emotes/TheAncientForge	Text	Quotes around it cause player character is reading it	'The Ancient Forge'	TODO
 Emotes/TheFishArentBiting	Text		The fish aren't biting	TODO
 Emotes/ThisIsNotMyBed	Text		This is not my bed	TODO
 Emotes/ThisWillTakeAWhile	Text		This will take a while...	TODO
 Emotes/ThisWillTakeForever	Text		This will take forever...	TODO
 Emotes/UnlockedInEarlyAccess	Text		Unlocked in Early Access	TODO
-Emotes/UnlocksAtLaunch	Text		"Continue your exploration beyond the wall at 1.0, \nunlocks August 27th 2024."	TODO
+Emotes/UnlocksAtLaunch	Text		Continue your exploration beyond the wall at 1.0, \nunlocks August 27th 2024.	TODO
 Emotes/WaypointActivated	Text		Waypoint activated	TODO
 Error/Authenticating	Text		Authenticating.	TODO
 Error/AuthenticationFailed	Text		Authentication failed	TODO
@@ -1789,11 +1789,11 @@ Items/Bed	Text		Bed	TODO
 Items/BedDesc	Text		A place to sleep. Also allows friendly inhabitants to move in if placed in a room to their liking.	TODO
 Items/BentFork	Text		Bent Fork	TODO
 Items/BentForkDesc	Text		A simple fork that has seen too much use.	TODO
-Items/BigFloorTileCaveling	Text		"Stone tile ""Cavelings"""	TODO
+Items/BigFloorTileCaveling	Text		Stone tile 'Cavelings'	TODO
 Items/BigFloorTileCavelingDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a gathering of cavelings.	TODO
-Items/BigFloorTileGemstone	Text		"Stone tile ""Gemstone"""	TODO
+Items/BigFloorTileGemstone	Text		Stone tile 'Gemstone'	TODO
 Items/BigFloorTileGemstoneDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a glowing gemstone.	TODO
-Items/BigFloorTileScholar	Text		"Stone tile ""Scholar"""	TODO
+Items/BigFloorTileScholar	Text		Stone tile 'Scholar'	TODO
 Items/BigFloorTileScholarDesc	Text		A giant stone tile decorated with a deep blue glass. It depicts a robed caveling.	TODO
 Items/BigJungleTree	Text		Paradise Tree	TODO
 Items/BigJungleTreeDesc	Text		A giant jungle tree that seems to have grown from the essence of life itself. A must have decoration.	TODO
@@ -1845,7 +1845,7 @@ Items/BlueCaveGuppyDesc	Text		Small, blue fish home to the dirt cave lakes.	TODO
 Items/BlueFireFly	Text		Blue Glowbug	TODO
 Items/BlueFireFlyDesc	Text		This flying bug always appears in swarms which appear as dancing lights. Its blue glow is biome-specific.	TODO
 Items/BlueGlassKalimba	Text		Blue Glass Kalimba	TODO
-Items/BlueGlassKalimbaDesc	Text		"A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading ""Woopsiee"", that has been carved into the glass."	TODO
+Items/BlueGlassKalimbaDesc	Text		A delicate instrument that has multiple fractures across its surface, rendering it unusable. There is a signature reading 'Woopsiee', that has been carved into the glass.	TODO
 Items/BlueGlassShard	Text		Blue Glass Shard	TODO
 Items/BlueGlassShardDesc	Text		A piece of deep blue glass, it appears to be a fusion of molten sand and ancient gemstones.	TODO
 Items/BlueKelp	Text		Blue Kelp	TODO
@@ -2281,7 +2281,7 @@ Items/CritterCrab2Desc	Text		This red-yellow crustacean always has its claws rai
 Items/CritterCrabDesc	Text		This blue-purple crustacean always has its claws raised which gives it a seemingly happy expression.	TODO
 Items/CritterGrasshopper	Text		Leafhopper	TODO
 Items/CritterGrasshopperDesc	Text		A very nervous little fellow. The faintest hint of danger makes it jump away into safety.	TODO
-Items/CritterLarva	Text	"Except for Englisch and German it should be translated as ""Small Larva"""	Larvlet	TODO
+Items/CritterLarva	Text	Except for Englisch and German it should be translated as 'Small Larva'	Larvlet	TODO
 Items/CritterLarvaDesc	Text		A tiny larva that doesn't harm you but likes to be collected and held in a warm hand.	TODO
 Items/CritterNewt	Text		Shadow Newt	TODO
 Items/CritterNewtDesc	Text		A dark fellow with seemingly unseeing eyes. But they stare deep into your soul.	TODO
@@ -2470,7 +2470,7 @@ Items/EasterEggcellentHatDesc	Text		Everyone wearing this oversized egg shell ha
 Items/EasterEggcellentPants	Text		Eggcellent Pants	TODO
 Items/EasterEggcellentPantsDesc	Text		These cheaply made pants are as yellow as egg yolk and itchy beyond comprehension.	TODO
 Items/EasterEggcellentSuit	Text		Eggcellent Breast Piece	TODO
-Items/EasterEggcellentSuitDesc	Text	"Any translations of the word ""eggcellent"" should be ""Egg"" + ""positive word"" in other languages."	A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	TODO
+Items/EasterEggcellentSuitDesc	Text	Any translations of the word 'eggcellent' should be 'Egg' + 'positive word' in other languages.	A spacious, oval shape that is made from hopes, dreams and lime. In other words: Egg.	TODO
 Items/EasterGarland	Text		Easter Garland	TODO
 Items/EasterGarlandDesc	Text		This charming green garland is adorned with little daisies, making it a perfect addition to your Easter-themed walls.	TODO
 Items/EasterGoldenEgg	Text		Large Golden Egg	TODO
@@ -2702,7 +2702,7 @@ Items/GlassFloor	Text		Glass Floor	TODO
 Items/GlassFloorDesc	Text		A see-through tile to provide a crystal-clear vision of the ground underneath.	TODO
 Items/GlassSmelter	Text		Glass Smelter	TODO
 Items/GlassSmelterDesc	Text		This handy furnace can turn any sand block into useful glass.	TODO
-Items/GlassStatuePrism	Text		"Glass Statue ""Octahedron"""	TODO
+Items/GlassStatuePrism	Text		Glass Statue 'Octahedron'	TODO
 Items/GlassStatuePrismDesc	Text		This bold statue serves as an art piece that puts the shiny properties of glass on display.	TODO
 Items/GlassWorkbench	Text		Glass Workbench	TODO
 Items/GlassWorkbenchDesc	Text		This workbench makes it possible to form glass into more advanced objects to add to your base.	TODO
@@ -3280,7 +3280,7 @@ Items/LogicCircuit	Text		Logic Circuit	TODO
 Items/LogicCircuitDesc	Text		Electricity can move through the circuit when it receives electricity on exactly 2 out of 3 inputs.	TODO
 Items/LoomSpinningWheel	Text		Loom	TODO
 Items/LoomSpinningWheelDesc	Text		This archaic device makes it possible to turn fiber into beautiful clothing and costumes.	TODO
-Items/LooseFlooring	Text	"A decorative flooring item like bricks or stone plates, they can change design a bit depending on what the player color them hence why we don't call it just ""stone plates"" or so"	Loose Flooring	TODO
+Items/LooseFlooring	Text	A decorative flooring item like bricks or stone plates, they can change design a bit depending on what the player color them hence why we don't call it just 'stone plates' or so	Loose Flooring	TODO
 Items/LooseFlooringDesc	Text		A collection of workable groundcover made from clay. A true hobbyist might turn them into different shapes and colors.	TODO
 Items/LostPaddle	Text		Lost Paddle	TODO
 Items/LostPaddleDesc	Text		Somewhere someone must paddle around in circles.	TODO
@@ -3430,8 +3430,8 @@ Items/NatureGemstone	Text		Jungle Emerald	TODO
 Items/NatureGemstoneDesc	Text		A verdant gemstone rarely found in crystalized lush regions. Its special properties allow it to be used for higher quality crafting.	TODO
 Items/NatureWoodenDestructible	Text		Overgrown Wooden Crate	TODO
 Items/NatureWoodenDestructibleDesc	Text		A box that has been partially reclaimed by nature. It's containing useful goods.	TODO
-Items/NilipedeTrophy	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede Figurine	TODO
-Items/NilipedeTrophyDesc	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	A lifelike representation of a Nilipede.	TODO
+Items/NilipedeTrophy	Text	Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for 'zero'.	Nilipede Figurine	TODO
+Items/NilipedeTrophyDesc	Text	Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for 'zero'.	A lifelike representation of a Nilipede.	TODO
 Items/NinjaBreastArmor	Text		Ninja Garments	TODO
 Items/NinjaBreastArmorDesc	Text	Should be written with 7 syllables, like the second sentence in a haiku.	Moving swiftly as the wind.	TODO
 Items/NinjaHelm	Text		Ninja Cowl	TODO
@@ -3523,23 +3523,23 @@ Items/OmorothTrophy	Text		Omoroth Figurine	TODO
 Items/OmorothTrophyDesc	Text		A lifelike representation of Omoroth, the Sea Titan.	TODO
 Items/OpabiniaFossil	Text		Opabinia Fossil	TODO
 Items/OpabiniaFossilDesc	Text		The petrified body of an prehistoric sea critter. They were one of the first apex predators to appear in the ancient oceans of earth.	TODO
-Items/OracleCardAzeos	Text		"Oracle Card ""Radiance"""	TODO
+Items/OracleCardAzeos	Text		Oracle Card 'Radiance'	TODO
 Items/OracleCardAzeosDesc	Text		A scratched card with golden borders and an image of the sky titan. Looks like it's part of a set.	TODO
-Items/OracleCardCity	Text		"Oracle Card ""Metropolis"""	TODO
+Items/OracleCardCity	Text		Oracle Card 'Metropolis'	TODO
 Items/OracleCardCityDesc	Text		A card in mint condition with golden borders and an image of an ancient city. Looks like it's part of a set.	TODO
-Items/OracleCardCore	Text		"Oracle Card ""Entity"""	TODO
+Items/OracleCardCore	Text		Oracle Card 'Entity'	TODO
 Items/OracleCardCoreDesc	Text		A bent card with golden borders and an image of the core. Looks like it's part of a set.	TODO
-Items/OracleCardFlower	Text		"Oracle Card ""Brilliance"""	TODO
+Items/OracleCardFlower	Text		Oracle Card 'Brilliance'	TODO
 Items/OracleCardFlowerDesc	Text		A charred card with golden borders and an image of a Glow Tulip. Looks like it's part of a set.	TODO
-Items/OracleCardGem	Text		"Oracle Card ""Aura"""	TODO
+Items/OracleCardGem	Text		Oracle Card 'Aura'	TODO
 Items/OracleCardGemDesc	Text		A ripped card with golden borders and an image of an ancient gemstone. Looks like it's part of a set.	TODO
-Items/OracleCardLeader	Text		"Oracle Card ""Inspiration"""	TODO
+Items/OracleCardLeader	Text		Oracle Card 'Inspiration'	TODO
 Items/OracleCardLeaderDesc	Text		Half of a card with golden borders and an image of a golden mask. Looks like it's part of a set.	TODO
-Items/OracleCardOmoroth	Text		"Oracle Card ""Temperance"""	TODO
+Items/OracleCardOmoroth	Text		Oracle Card 'Temperance'	TODO
 Items/OracleCardOmorothDesc	Text		A faded card with golden borders and an image of the sea titan. Looks like it's part of a set.	TODO
-Items/OracleCardRaAkar	Text		"Oracle Card ""Endurance"""	TODO
+Items/OracleCardRaAkar	Text		Oracle Card 'Endurance'	TODO
 Items/OracleCardRaAkarDesc	Text		A crumbling card with golden borders and an image of the sand titan. Looks like it's part of a set.	TODO
-Items/OracleCardScholar	Text		"Oracle Card ""Wisdom"""	TODO
+Items/OracleCardScholar	Text		Oracle Card 'Wisdom'	TODO
 Items/OracleCardScholarDesc	Text		A soaked card with golden borders and an image of a caveling scholar. Looks like it's part of a set.	TODO
 Items/OracleDeck	Text		Oracle Deck	TODO
 Items/OracleDeckDesc	Text		The complete set of oracle cards. Bringing them together strangely restored the cards to perfect condition and now they emit a powerful, enlightening aura.	TODO
@@ -3615,7 +3615,7 @@ Items/PassageCraftingStatue	Text		Rift Statue	TODO
 Items/PassageCraftingStatueDesc	Text		This statue opens a rift to a mysterious entity. It seems willing to trade.	TODO
 Items/PassageDestructible	Text		Fossil Cluster	TODO
 Items/PassageDestructibleDesc	Text		Stacks of calcified marine fossils. There may be some resources inside.	TODO
-Items/PassageStalagmite	Text		"Fossil Stalagmite"	TODO
+Items/PassageStalagmite	Text		Fossil Stalagmite	TODO
 Items/PassageStalagmiteDesc	Text		A pillar made of many entangled creatures.	TODO
 Items/PearlLantern	Text		Pearl Lantern	TODO
 Items/PearlLanternDesc	Text		A shimmering blue pearl in a scallop that illuminates your path above the dark depths of the sea.	TODO
@@ -3726,9 +3726,9 @@ Items/PinegrappleRareDesc	Text		A very rare variant of the common pinegrapple.	T
 Items/PinegrappleSeed	Text		Pinegrapple Seed	TODO
 Items/PinegrappleSeedDesc	Text		Grows into a refreshing sour and sweet fruit when planted in beach sand.	TODO
 Items/PinkCherryFlower	Text		Pink Cherry Blossom	TODO
-Items/PinkCherryFlowerDesc	Text		"A vibrant pink blossom that fell from a ""weeping"" tree. Its short-lived blooming period reminds one of the transcience of life."	TODO
+Items/PinkCherryFlowerDesc	Text		A vibrant pink blossom that fell from a 'weeping' tree. Its short-lived blooming period reminds one of the transcience of life.	TODO
 Items/PinkCherryTree	Text		Pink Cherry Tree	TODO
-Items/PinkCherryTreeDesc	Text		"This ""weeping"" tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle."	TODO
+Items/PinkCherryTreeDesc	Text		This 'weeping' tree holds its branches low, letting the blossoms droop towards the ground. It is said that brave warriors took depictions of those trees with them into their final battle.	TODO
 Items/PinkCoralotl	Text		Pink Coralotl	TODO
 Items/PinkCoralotlDesc	Text		A small pink amphibian with outward-protruding gills that look like corals. It also uses them to draw nutrients out of the waters of the Sunken Sea.	TODO
 Items/PinkPalaceFish	Text		Pink Palace Fish	TODO
@@ -3895,7 +3895,7 @@ Items/RangerBreastArmorDesc	Text		A light tunic with a quiver allowing for swift
 Items/RangerHelm	Text		Ranger Hood	TODO
 Items/RangerHelmDesc	Text		A dark hood of old cloth. Hardly anything but eyes set on your target peep through.	TODO
 Items/RangerPantsArmor	Text		Ranger Pants	TODO
-Items/RangerPantsArmorDesc	Text	"Changed ""boots"" to ""pants"" in the description"	These sturdy leather pants tighten your stance and grant you steady aim for your target.	TODO
+Items/RangerPantsArmorDesc	Text	Changed 'boots' to 'pants' in the description	These sturdy leather pants tighten your stance and grant you steady aim for your target.	TODO
 Items/RazorFlake	Text		Ricochet Shuriken	TODO
 Items/RazorFlakeDesc	Text		A four-bladed throwing weapon that bounces back and forth across the room. Slicing any enemy in its path.	TODO
 Items/RecallIdol	Text		Recall Idol	TODO
@@ -4109,7 +4109,7 @@ Items/ShroomanBruteTrophyDesc	Text		A lifelike representation of a Shrooman Brut
 Items/SignArrow	Text		Arrow Sign	TODO
 Items/SignArrowDesc	Text		Don't know where to go? Just look at it!	TODO
 Items/SignBrute	Text		Brute Sign	TODO
-Items/SignBruteDesc	Text		"Someone put all their artistic efforts into painting this sign and left it as a warning. \nCaveling Brutes or worse ahead."	TODO
+Items/SignBruteDesc	Text		Someone put all their artistic efforts into painting this sign and left it as a warning. \nCaveling Brutes or worse ahead.	TODO
 Items/SignSkull	Text		Skull Effigy	TODO
 Items/SignSkullDesc	Text		There is no clearer warning than a skull on a stake. Better keep out.	TODO
 Items/SignText	Text		Sign	TODO
@@ -4122,7 +4122,7 @@ Items/SingingCrystal	Text		Singing Crystal	TODO
 Items/SingingCrystalDesc	Text		Due to its shape, this naturally formed crystal rings with a harmonic frequency when struck.	TODO
 Items/SkeletonPedestal	Text		Deceased Explorer	TODO
 Items/SkeletonPedestal2	Text		Skeleton Decor	TODO
-Items/SkeletonPedestal2Desc	Text		"A spooky scary skeleton made from cheap plastic. Perfect to ""liven"" up any room."	TODO
+Items/SkeletonPedestal2Desc	Text		A spooky scary skeleton made from cheap plastic. Perfect to 'liven' up any room.	TODO
 Items/SkeletonPedestalDesc	Text		The remains of a fellow explorer who wasn't as lucky as you. Funnily enough he can still fit hats onto his pale skull, that's at least something.	TODO
 Items/SkirmisherHelm	Text		Skirmisher Cap	TODO
 Items/SkirmisherHelmDesc	Text		A headpiece worn by caveling skirmishers which has been cobbled together with larvaskin, leaves and dirty cloth.	TODO
@@ -4512,7 +4512,7 @@ Items/ValentinePresentDesc	Text		This rose and silver-colored gift is packed wit
 Items/ValentineRing	Text		Valentine Ring	TODO
 Items/ValentineRingDesc	Text		A golden ring featuring a candy-colored heart. The perfect gift to give to someone you like.	TODO
 Items/ValentineRug	Text		Heart-shaped Rug	TODO
-Items/ValentineRugDesc	Text		"Nothing speaks ""love"" like a big fuzzy heart on the floor. It smells like wool and lavender."	TODO
+Items/ValentineRugDesc	Text		Nothing speaks 'love' like a big fuzzy heart on the floor. It smells like wool and lavender.	TODO
 Items/ValentineWallHearts	Text		Wall Hearts	TODO
 Items/ValentineWallHeartsDesc	Text		An assortment of hearts cut from paper, they look great on walls and make a base just a little bit more lovely.	TODO
 Items/ValentineWorkbench	Text		Valentine Crafting Table	TODO
@@ -4539,7 +4539,7 @@ Items/WallBossScanner	Text		Urschleim Scanner	TODO
 Items/WallBossScannerDesc	Text		Scans the world for Urschleim. Consumed on successful scan.	TODO
 Items/WallBossSummoningItem	Text		Primeval Slime Cell	TODO
 Items/WallBossSummoningItemDesc	Text		A highly mutative, crystalized cell. To resummon Urschleim, activate it in the Passage where ancient lifeforms still roam. Consumed in the process.	TODO
-Items/WallBossTrophy	Text	"For translating the name ""Urschleim"" reference back to the note I left in the ""Names"" bracket of this document"	Urschleim Figurine	TODO
+Items/WallBossTrophy	Text	For translating the name 'Urschleim' reference back to the note I left in the 'Names' bracket of this document	Urschleim Figurine	TODO
 Items/WallBossTrophyDesc	Text		A lifelike representation of Urschleim.	TODO
 Items/WallCityBlock	Text		Metropolis Block	TODO
 Items/WallCityBlockDesc	Text		A sturdy piece of city architecture, decorated with glass and gold.	TODO
@@ -4695,9 +4695,9 @@ Items/WoodenDestructible	Text		Wooden Crate	TODO
 Items/WoodenDestructibleDesc	Text		A wooden box used by someone to store random goods.	TODO
 Items/WoodenRing	Text		Wooden Ring	TODO
 Items/WoodenRingDesc	Text		A simple wooden ring, nothing more, nothing less.	TODO
-Items/WoodenSign1	Text		"Wooden Sign ""Core"""	TODO
+Items/WoodenSign1	Text		Wooden Sign 'Core'	TODO
 Items/WoodenSign1Desc	Text		Driftwood with patterns and carvings showing the Core.	TODO
-Items/WoodenSign2	Text		"Wooden Sign ""Tulip"""	TODO
+Items/WoodenSign2	Text		Wooden Sign 'Tulip'	TODO
 Items/WoodenSign2Desc	Text		Driftwood with patterns and carvings showing a Glow Tulip.	TODO
 Items/WoodenThornRing	Text		Wooden Thorn Ring	TODO
 Items/WoodenThornRingDesc	Text		A circular, brambly root with sharp thorns pointing outward.	TODO
@@ -4707,7 +4707,7 @@ Items/Wool	Text		Wool	TODO
 Items/WoolDesc	Text		An incredibly soft tuft of wool that has a pleasant scent to it.	TODO
 Items/WorkerHandcuff	Text		Worker Handcuff	TODO
 Items/WorkerHandcuffDesc	Text		Cast from thick metal this tool seemed to be attached to a chain. Has it been used to keep the unlawful from running away?	TODO
-Items/WormSegment	Text	"Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for ""zero""."	Nilipede	TODO
+Items/WormSegment	Text	Change the translations in a way that it relates to the Nilipede having no legs if you haven't already. Nil is latin for 'zero'.	Nilipede	TODO
 Items/WovenMat	Text		Woven Mat	TODO
 Items/WovenMatDesc	Text		Groundcover made from a net of firm plants.	TODO
 Items/WovenStrawFloor	Text		Woven Straw Floor	TODO
@@ -4725,7 +4725,7 @@ JoinOnlineGame	Text		Join Online Game	TODO
 LanguageOption	Text		Language: {0}	TODO
 LatestVersionCheck	Text		Welcome to Core Keeper. Your current version is outdated. For the best experience, please download the latest version. Enjoy new content regularly!	TODO
 LeashCattle	Text		Attach to cattle	TODO
-MapMarkers/DeathMarker	Text	"{0} is replaced with ""You"" or name of other players"	{0} died here	TODO
+MapMarkers/DeathMarker	Text	{0} is replaced with 'You' or name of other players	{0} died here	TODO
 MapMarkers/DeathMarkerThisPlayer	Text		You died here	TODO
 MapMarkers/TheCore	Text		The Core	TODO
 MapMarkers/You	Text	This is shown when hovering over own player marker in Map	You	TODO
@@ -4789,7 +4789,7 @@ Menu/GiveFeedback	Text		Report bugs / feedback	TODO
 Menu/GraphicsOptions	Text		Graphics settings	TODO
 Menu/Hardcore	Text		Hardcore	TODO
 Menu/HardcoreDesc	Text		Hardcore characters are permanently lost when they die and cannot be revived.	TODO
-Menu/HasBeenCreatedOnDesktop	Text	"""desktop"" is the user's desktop folder on PC"	{0} has been created on the desktop	TODO
+Menu/HasBeenCreatedOnDesktop	Text	'desktop' is the user's desktop folder on PC	{0} has been created on the desktop	TODO
 Menu/HideGameID	Text		Hide game ID	TODO
 Menu/HostVersionIs	Text		Host's version: {0}	TODO
 Menu/Ignore	Text		Ignore	TODO
@@ -4809,7 +4809,7 @@ Menu/ModMenuPopUp	Text		Mods are developed by members of the community. They ope
 Menu/ModMissingClientDialogue	Text		Required mod {0} is missing. Do you want to install it (needs restart)?	TODO
 Menu/ModMissingServerDialogue	Text		Required mod {0} is missing from server. Do you want to disable it (needs restart)?	TODO
 Menu/Mods	Text		Mods	TODO
-Menu/ModsAddedWithEnhancedAccess	Text		"Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.\nMods with Elevated Access:\n{0}"	TODO
+Menu/ModsAddedWithEnhancedAccess	Text		Caution: 'Elevated Access' mods have increased access to resources outside the game like user files and internet. For the best experience, install only from reputable sources.\nMods with Elevated Access:\n{0}	TODO
 Menu/ModsLoaded	Text		{0} Mods Loaded	TODO
 Menu/MoreInfo	Text		More info	TODO
 Menu/NewWorld	Text	Button/prompt to create a new world	New world	TODO
@@ -4929,7 +4929,7 @@ Names/SoulOfNatureHydra	Text		Druidra	TODO
 Names/SoulOfOmoroth	Text		Omoroth	TODO
 Names/SoulOfScarab	Text		Ra-Akar	TODO
 Names/SoulOfSeaHydra	Text		Crydra	TODO
-Names/WallBoss	Text	"Urschleim is used here as a proper name, if you can keep the name ""Urschleim"" as it is. If unavoidable, try to come up with a literal phonetic translation in the language you're translating to"	Urschleim	TODO
+Names/WallBoss	Text	Urschleim is used here as a proper name, if you can keep the name 'Urschleim' as it is. If unavoidable, try to come up with a literal phonetic translation in the language you're translating to	Urschleim	TODO
 None	Text		None	TODO
 NonePlayableTitleInfoText	Text		This version of the game is not available, however, you can of course still play the latest Early Access build on the default Steam branch. If you think you were supposed to have access to an exclusive version of the game, please get in touch with your relevant point of contact on the publisher's end.	TODO
 NormalMode	Text		Standard	TODO
@@ -4950,7 +4950,7 @@ Outro/Slide3	Text		As they help you sit up, you feel something poking your back.
 Outro/Slide4	Text		A peculiar crystal, humming with energy. And then you remember...	TODO
 Outro/Slide5	Text		...the unity you have experienced and the story you have to tell.	TODO
 Outro/Slide6	Text		Even if we are far apart, there is a path in our collective heart.	TODO
-Outro/Slide6OnSlideText	Text	"The * are used for 0.5s pauses when revealing the text so it says ""the end"" and then after a pause the dots will appear one by one ending with a question mark"	The End ******.*.*.*?	TODO
+Outro/Slide6OnSlideText	Text	The * are used for 0.5s pauses when revealing the text so it says 'the end' and then after a pause the dots will appear one by one ending with a question mark	The End ******.*.*.*?	TODO
 PantsVanitySlot	Text		Pants vanity slot	TODO
 PetTalents/ApplyBurnBuff	Text		Rising Phoenix	TODO
 PetTalents/ApplyBurnMelee	Text		Burning Anger	TODO
@@ -5032,7 +5032,7 @@ Rarity/RareMale	Text		Rare	TODO
 Rarity/Uncommon	Text		Uncommon	TODO
 Rarity/UncommonFemale	Text		Uncommon	TODO
 Rarity/UncommonMale	Text		Uncommon	TODO
-Recipes	Text	"Title for recipes of foods, {0} will be replaced with a number indicating the current amount of known recipes"	Recipes ({0})	TODO
+Recipes	Text	Title for recipes of foods, {0} will be replaced with a number indicating the current amount of known recipes	Recipes ({0})	TODO
 ReinforceButtonDesc	Text		Toggle to reinforce tools, weapons and equipment. Reinforcing will improve the stats of the item by a small amount and also extend the durability.	TODO
 ReinforceButtonTitle	Text		Reinforce	TODO
 RepairButtonDesc	Text		Toggle to repair tools, weapons and equipment.	TODO
@@ -5075,7 +5075,7 @@ Roles/Warlock	Text		Warlock	TODO
 Roles/WarlockDesc	Text		An adept warlock who conjures dark minions to besiege and bewilder foes.	TODO
 SalvageButtonDesc	Text		Salvage tools, weapons and equipment to gain scrap parts and some of the crafting materials back. Items with less durability gives back less materials.	TODO
 SalvageButtonTitle	Text		Salvage	TODO
-Salvaging	Text	"Shown as title in the salvage and repair UI"	Salvaging	TODO
+Salvaging	Text	Shown as title in the salvage and repair UI	Salvaging	TODO
 ScanWorld	Text		Scan the world	TODO
 Seasons/Anniversary	Text		Anniversary	TODO
 Seasons/CherryBlossom	Text		Cherry blossom	TODO
@@ -5277,7 +5277,7 @@ TheCore/CoreFinalSpeechSentence7	Text		There, *I hath discovered it.	TODO
 TheCore/CoreFinalSpeechSentence8	Text		If ever thou findst your way hither again, let us be a force for brilliance.	TODO
 TheCore/CoreFinalSpeechSentence9	Text		Farewell, strange traveller...	TODO
 TheCore/NextSoulUnderDevelopment	Text	The core will say this line when player has defeated all souls bosses while there still are more bosses being developed during early access.	The next soul is still being shaped by the makers of this world.	TODO
-TheCore/SoulOfBirdBossHint1	Text	"{0} will be replaced with the direction of the nature biome such as ""north east"" or ""south"""	The flourishing wilderness in which Azeos resides thrives {0} from here.	TODO
+TheCore/SoulOfBirdBossHint1	Text	{0} will be replaced with the direction of the nature biome such as 'north east' or 'south'	The flourishing wilderness in which Azeos resides thrives {0} from here.	TODO
 TheCore/SoulOfBirdBossHint2	Text		Azeos has a liking for shiny glimmering objects.	TODO
 TheCore/SoulOfHydraBossDesertHint1	Text		A titanic creature lurks in the deep sands of the dry wasteland to the {0}.	TODO
 TheCore/SoulOfHydraBossDesertHint2	Text		An adversary to Ra-Akar, called upon by an ancient song.	TODO
@@ -5308,9 +5308,9 @@ WeaponSecondary/OrbitingMinion	Text		Summons an orbiting jellyfish minion dealin
 WeaponSecondary/PiercingShot	Text		Piercing Shot	TODO
 WeaponSecondary/TrailingCrystals	Text		Trailing Crystals	TODO
 WeaponSpeed	Text		{0} attacks per second	TODO
-additionalItemGained	Text	"For example"" Gained 5 extra mushroom soup!"""	Gained {0} extra {1}!	TODO
+additionalItemGained	Text	For example' Gained 5 extra mushroom soup!'	Gained {0} extra {1}!	TODO
 additionalSlotsStat	Text		+{0} inventory slots	TODO
-ancientCoins	Text	"For example ""14 ancient coins"""	{0} ancient coins	TODO
+ancientCoins	Text	For example '14 ancient coins'	{0} ancient coins	TODO
 anyCommonEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of uncommon or lower rarity	TODO
 anyRareEdibleObject	Text	Shown on items as a requirement for the material used in crafting	Any cooked food of rare or higher rarity	TODO
 anySandObject	Text		Any sand block	TODO
@@ -5323,7 +5323,7 @@ banPlayerDialogue	Text		Do you want to ban this player?	TODO
 base	Text	Shown as title in crafting window	Base	TODO
 body	Text	Option to choose gender	Body	TODO
 bouncingProjectiles	Text		Projectiles bounce on impact	TODO
-buffsOwner	Text	"{0} will be replaced with a buff text such as ""Buffs owner with: +5% attack speed"""	Buffs owner with: {0}	TODO
+buffsOwner	Text	{0} will be replaced with a buff text such as 'Buffs owner with: +5% attack speed'	Buffs owner with: {0}	TODO
 buffsOwnerTitle	Text		Buffs owner with:	TODO
 buildings	Text		Buildings	TODO
 buy	Text		Buy	TODO
@@ -5360,8 +5360,8 @@ createCharacter	Text		Create character	TODO
 creativeModeOptions	Text		Creative mode options	TODO
 crystalSlot	Text	Used as hint when hovering a slot that needs a crystal	Crystal slot	TODO
 currentlySaving	Text		Saving...	TODO
-damage	Text	"The damage of an item like a trap or a turret shown when hovering it, for example ""19-22 damage"""	{0}-{1} damage	TODO
-dateFormat	Text	"{0} = year (number)\n{1} = day (number)\n{2} = month (word) (please see the ""months"" string)\n\ne.g. for english: May 25, 1991"	{2} {1}, {0}	TODO
+damage	Text	The damage of an item like a trap or a turret shown when hovering it, for example '19-22 damage'	{0}-{1} damage	TODO
+dateFormat	Text	{0} = year (number)\n{1} = day (number)\n{2} = month (word) (please see the 'months' string)\n\ne.g. for english: May 25, 1991	{2} {1}, {0}	TODO
 delete	Text		Delete	TODO
 deleteCharacter	Text		Delete character	TODO
 deleteCharactersMenu	Text		Delete characters menu	TODO
@@ -5375,11 +5375,11 @@ dontShowAgain	Text		Don't show again	TODO
 down	Text		Move down	TODO
 dresser	Text		Dresser	TODO
 dropToWorld	Text		Drop item:	TODO
-durability	Text	"For example ""Durability 159/500"""	Durability: {0}/{1}	TODO
+durability	Text	For example 'Durability 159/500'	Durability: {0}/{1}	TODO
 durabilityLost	Text		Some durability on equipment was lost.	TODO
-durationMin	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min"" where\n{0} is replaced with  ""+2 health every sec"" and\n{1} is replaced with ""1"""	{0} for {1} min	TODO
-durationMinSec	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 1 min 15 sec"" where\n{0} is replaced with  ""+2 health every sec"" and\n{1} is replaced with ""1""\n{2} is replaced ""15"""	{0} for {1} min {2} sec	TODO
-durationSec	Text	"Shown at end of buff text with a duration such as ""+2 health every sec for 25 sec"" where\n{0} is replaced with  ""+2 health every sec"" and\n{1} is replaced with ""25"""	{0} for {1} sec	TODO
+durationMin	Text	Shown at end of buff text with a duration such as '+2 health every sec for 1 min' where\n{0} is replaced with  '+2 health every sec' and\n{1} is replaced with '1'	{0} for {1} min	TODO
+durationMinSec	Text	Shown at end of buff text with a duration such as '+2 health every sec for 1 min 15 sec' where\n{0} is replaced with  '+2 health every sec' and\n{1} is replaced with '1'\n{2} is replaced '15'	{0} for {1} min {2} sec	TODO
+durationSec	Text	Shown at end of buff text with a duration such as '+2 health every sec for 25 sec' where\n{0} is replaced with  '+2 health every sec' and\n{1} is replaced with '25'	{0} for {1} sec	TODO
 electrictyIconHoverDesc	Text	Shown when hovering over the electricity icon in buildings that require it	This building requires electricity	TODO
 emptySlot	Text		Empty slot	TODO
 enableGodMode	Text		Enable god mode	TODO
@@ -5399,28 +5399,28 @@ experienceGained	Text	{0} will be replaced with a number indicating the experien
 explosiveDamage	Text		{0}-{1} explosive damage	TODO
 eyeColor	Text	Option to choose color of eyes	Eye color	TODO
 food	Text		Food	TODO
-foodFormat	Text	"{0} = food adjective,\n{1} = food noun,\n{2} = food type\nTurns into for example ""Hearty Mushroom Soup"" when cooking Heart berries with mushrooms in the cooking pot."	{0} {1} {2}	TODO
-fullness	Text	"For example ""Fullness 159/500"", shown on items like water can"	Fullness: {0}/{1}	TODO
+foodFormat	Text	{0} = food adjective,\n{1} = food noun,\n{2} = food type\nTurns into for example 'Hearty Mushroom Soup' when cooking Heart berries with mushrooms in the cooking pot.	{0} {1} {2}	TODO
+fullness	Text	For example 'Fullness 159/500', shown on items like water can	Fullness: {0}/{1}	TODO
 gainedItem	Text	Shown in chat when for example gaining a polished version of a ring when crafting where {0} is the name of the item	Gained {0}!	TODO
 gainedSoul	Text		Gained soul of {0}!	TODO
 gameMenu	Text	Shown as title when opening the pause menu in game	Game Menu	TODO
 gamepad	Text		Gamepad	TODO
 gear	Text	As in equipment and tools, should be one word	Gear	TODO
-godModeOptionDesc	Text		"God mode features:\n- Player can move through objects\n- Player can destroy objects in one hit\n- Items don't drop from destroyed objects\n- Player can place objects faster\n- Objects are not consumed when used"	TODO
+godModeOptionDesc	Text		God mode features:\n- Player can move through objects\n- Player can destroy objects in one hit\n- Items don't drop from destroyed objects\n- Player can place objects faster\n- Objects are not consumed when used	TODO
 graphicsAPIOption	Text	{0} will be replaced with the name of the graphics api	Play Core Keeper using {0}	TODO
 hair	Text	Option to choose hair style	Hair	TODO
 hairColor	Text	Option to choose hair color	Hair color	TODO
 hardcoreDeathMessage	Text		You died. Character has been lost.	TODO
 helmSlot	Text		Helm slot	TODO
-hideCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Hide Creative UI	TODO
+hideCreativeUI	Text	'UI' should also be called 'UI' when translated, as the button space it is shown own should be kept small and short.	Hide Creative UI	TODO
 high	Text		High	TODO
-holdToSkip	Text	"{0} is replaced with a button/key so for example ""Hold SPACE to skip"". This is used in intro slides of the game."	Hold {0} to skip intro	TODO
+holdToSkip	Text	{0} is replaced with a button/key so for example 'Hold SPACE to skip'. This is used in intro slides of the game.	Hold {0} to skip intro	TODO
 holdToSkipOutro	Text		Hold {0} to skip outro	TODO
 incubator	Text	As in an egg incubator	Incubator	TODO
 infinity	Text		Infinity	TODO
 ingredients	Text		Ingredients:	TODO
 instrumentItem	Text	Shown as a tag text in the description of items that are instruments	Instrument	TODO
-itemDescFormat	Text	"For example ""+3 Torch"""	+{0} {1}	TODO
+itemDescFormat	Text	For example '+3 Torch'	+{0} {1}	TODO
 joinTheGame	Text		Join	TODO
 keyBackspace	Text		BACKSPACE	TODO
 keyCtrl	Text		CTRL	TODO
@@ -5451,7 +5451,7 @@ materials	Text	Used as header when showing required materials in crafting for ex
 maxLevel	Text	{0} will be replaced with the level number	Level: {0} (Max)	TODO
 maximumMapMarkersPlaced	Text		You have already placed the maximum amount of map markers.	TODO
 medium	Text		Medium	TODO
-meleeWeapon	Text	"{0} will be replaced by the content in either magicWeaponDamage or physicalWeaponDamage so end result will for example be:\n45-68 magic damage (melee)"	{0} (melee)	TODO
+meleeWeapon	Text	{0} will be replaced by the content in either magicWeaponDamage or physicalWeaponDamage so end result will for example be:\n45-68 magic damage (melee)	{0} (melee)	TODO
 menu	Text		Menu	TODO
 menuButtonActivate	Text		Activate	TODO
 menuButtonBack	Text		Back	TODO
@@ -5459,14 +5459,14 @@ menuButtonDeactivate	Text		Deactivate	TODO
 menuButtonNavigate	Text		Navigate	TODO
 menuButtonSelect	Text		Select	TODO
 missingScrapParts	Text		Missing scrap parts	TODO
-months	Text	"Please give the short form of a month, for each month, andseparate each month by an ASCII space.\nThe month will be placed into the 'dateFormat' string."	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	TODO
+months	Text	Please give the short form of a month, for each month, andseparate each month by an ASCII space.\nThe month will be placed into the 'dateFormat' string.	Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec	TODO
 multiplayer	Text		Multiplayer	TODO
 musicSheetItem	Text		Music sheet	TODO
-nativeLang	Text	"should not translate ""english"" but should show the name of the language itself"	English	TODO
+nativeLang	Text	should not translate 'english' but should show the name of the language itself	English	TODO
 necklaceSlot	Text		Necklace slot	TODO
 newGame	Text		New Game	TODO
-newItem	Text	"Shown when a new item is picked up, for example: ""New item: Apple"""	New item: {0}	TODO
-newTalentPoint	Text	"Will for example say ""New talent point available in Fishing!"" in the chat window when player unlocks a new talent point"	New talent point available in {0}!	TODO
+newItem	Text	Shown when a new item is picked up, for example: 'New item: Apple'	New item: {0}	TODO
+newTalentPoint	Text	Will for example say 'New talent point available in Fishing!' in the chat window when player unlocks a new talent point	New talent point available in {0}!	TODO
 nextTalentPoint	Text	Shown as part of talent points hover window showing what the next talent point will give	Next rank:	TODO
 no	Text		no	TODO
 noControllerWarning	Text		Warning!\Your controller\has disconnected.	TODO
@@ -5480,11 +5480,11 @@ nonLocalizedPlaceholder	Text	No need to be translated, only exists in localizati
 normal	Text		Normal	TODO
 numpadMinus	Text		NUMPAD -	TODO
 numpadPlus	Text		NUMPAD +	TODO
-off	Text	"On/Off\nIf your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.\nThis will be used with things like ""gamepad vibration: On/Off"""	Off	TODO
+off	Text	On/Off\nIf your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.\nThis will be used with things like 'gamepad vibration: On/Off'	Off	TODO
 offHandUse	Text		Off-hand use: {0}	TODO
 offhandSlot	Text		Off-hand slot	TODO
 ok	Text		Ok	TODO
-on	Text	"On/Off setting.\nIf your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.\nThis will be used with things like ""gamepad vibration: On/Off"""	On	TODO
+on	Text	On/Off setting.\nIf your language doesn't have specific words for on/off, consider yes/no or enabled/disabled.\nThis will be used with things like 'gamepad vibration: On/Off'	On	TODO
 oneTimeEffect	Text	Shown after buff texts on food for example that can only occur one time, should be kept short	(only once)	TODO
 options	Text		Settings	TODO
 oxygen	Text		Oxygen	TODO
@@ -5496,8 +5496,8 @@ paused	Text		Game Paused	TODO
 permanentWhenEaten	Text	Shown above list of buffs gained from eating food	Permanent when eaten:	TODO
 petCandy	Text		Use: Feed this to your pet to boost its experience by {0}.	TODO
 petEgg	Text		Hatchable	TODO
-petInfo	Text	"Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing ""info"" as ""information"" for example"	Pet info	TODO
-petLeveledUp	Text	"{0} will be replaced with the level number"	Pet reached level {0}!	TODO
+petInfo	Text	Shown as a header for a window showing information about a pet. Try to keep it short and avoid writing 'info' as 'information' for example	Pet info	TODO
+petLeveledUp	Text	{0} will be replaced with the level number	Pet reached level {0}!	TODO
 petSlot	Text		Pet slot	TODO
 physicalWeaponDamage	Text		{0}-{1} physical damage	TODO
 pickUpHalf	Text		Pick up half:	TODO
@@ -5516,8 +5516,8 @@ quickStack	Text	Shown when hovering a button that uses the quick stack function	
 quickStackDesc	Text		Moves already existing items in the chest from your inventory to the chest.	TODO
 quitToDesktop	Text		Quit	TODO
 rangeWeapon	Text		{0} (range)	TODO
-rareItemFormat	Text	"Format used for items that has rarity indicator as part of their name such as ""Rare Heartberry"" where\n{0} = rarity\n{1} = item name"	{0} {1}	TODO
-receivedItems	Text	"For example"" Gained 4 Copper Bars!"" where {0} is 4 and {1} is Copper Bars"	Received {0} {1}	TODO
+rareItemFormat	Text	Format used for items that has rarity indicator as part of their name such as 'Rare Heartberry' where\n{0} = rarity\n{1} = item name	{0} {1}	TODO
+receivedItems	Text	For example' Gained 4 Copper Bars!' where {0} is 4 and {1} is Copper Bars	Received {0} {1}	TODO
 reduced	Text		Reduced	TODO
 regenerateGameIDPrompt	Text		Do you want to regenerate a new Game ID? This will not affect any progression made.	TODO
 reinforceCost	Text		Reinforce cost:	TODO
@@ -5540,14 +5540,14 @@ secondary	Text	Shown as category for white, black, brown and purple painting col
 selectCharacter	Text		Select character	TODO
 selectDifficulty	Text		Select difficulty	TODO
 sell	Text		Sell	TODO
-set	Text	"Format to show set bonuses such as ""2 set: +10% damage"" indicating that 2 pieces are needed to fullfill the set bonus where{0} = 2\n{1} = +10% damage"	{0} set: {1}	TODO
+set	Text	Format to show set bonuses such as '2 set: +10% damage' indicating that 2 pieces are needed to fullfill the set bonus where{0} = 2\n{1} = +10% damage	{0} set: {1}	TODO
 settingAmbientVol	Text		Ambience	TODO
 settingDisplayGameTime	Text		Show game time	TODO
 settingLanguage	Text		Language	TODO
 settingLimitColors	Text		16 bit colors	TODO
 settingLimitPalette	Text		Limit Palette	TODO
 settingMusicVol	Text		Music	TODO
-settingPlayableInstrument	Text	"name of the setting that allows changing volume of in game instruments that players can play"	Playable instruments	TODO
+settingPlayableInstrument	Text	name of the setting that allows changing volume of in game instruments that players can play	Playable instruments	TODO
 settingScreenShakes	Text		Screen shakes	TODO
 settingSfxVol	Text		SFX	TODO
 settingVSync	Text		V-sync	TODO
@@ -5558,7 +5558,7 @@ settingVibrationXbox	Text		Vibration	TODO
 sheets	Text	Refers to Music sheets/notes	Sheets	TODO
 shirt	Text	Option to choose shirt style	Shirt	TODO
 shortcuts	Text		Shortcuts	TODO
-showCreativeUI	Text	"""UI"" should also be called ""UI"" when translated, as the button space it is shown own should be kept small and short."	Show Creative UI	TODO
+showCreativeUI	Text	'UI' should also be called 'UI' when translated, as the button space it is shown own should be kept small and short.	Show Creative UI	TODO
 showOutroDialogue	Text		Do you want to show the ending again?	TODO
 signedOutWarning	Text		Warning!\Your profile has\been signed out.	TODO
 singleplayer	Text		Singleplayer	TODO
@@ -5575,7 +5575,7 @@ startingPerks	Text		Starting perks:	TODO
 starvationDeathMessage	Text		You died from starvation.	TODO
 stats	Text	Title of stats window that shows when hovering character ui in game	Stats	TODO
 stop	Text		Stop	TODO
-textWithAmount	Text	"Used for any text that has an amount indicated such as ""Mining 48/100"" to show the current and max Mining skill"	{0} {1}/{2}	TODO
+textWithAmount	Text	Used for any text that has an amount indicated such as 'Mining 48/100' to show the current and max Mining skill	{0} {1}/{2}	TODO
 toggleShortcuts	Text		Toggle this window:	TODO
 tools	Text	Shown as title in crafting window	Tools	TODO
 trading	Text		Trading	TODO
@@ -5586,12 +5586,12 @@ up	Text		Move up	TODO
 upgrade	Text		Upgrade	TODO
 useItemTerm	Text		Use: {0}	TODO
 valuable	Text	Shown as a tag in description of items  that are meant to be sold for coins.	Valuable	TODO
-value	Text	"As in the coin value of an item, for example ""Value: 1484 coins"""	Value: {0}	TODO
+value	Text	As in the coin value of an item, for example 'Value: 1484 coins'	Value: {0}	TODO
 vanityToggleVisibility	Text		Click to toggle visiblity of equipment	TODO
 versus	Text		Versus	TODO
 veryHigh	Text		Very high	TODO
 videoOptions	Text		Video settings	TODO
-weaponMeleeDamage	Text	"The damage of a weapon shown when hovering it, for example ""19-22 melee damage"""	{0}-{1} melee damage	TODO
+weaponMeleeDamage	Text	The damage of a weapon shown when hovering it, for example '19-22 melee damage'	{0}-{1} melee damage	TODO
 weaponRangeDamage	Text		{0}-{1} range damage	TODO
 weaponSecondary	Text		Secondary use: {0}	TODO
 weapons	Text		Weapons	TODO
