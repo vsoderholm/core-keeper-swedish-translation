@@ -12,4 +12,4 @@ Option 1: Use github EDIT mode - [https://github.com/vsoderholm/core-keeper-swed
 Option 2: Use github.dev - [https://github.dev/vsoderholm/core-keeper-swedish-translation/blob/main/Localization_swedish.tsv]
 
 ### other resources
-just google "edit CSV online" or "edit excel online" or something.
+just google "edit CSV online" or "edit excel online" or something, and use the raw link to [Localization_swedish.csv].
